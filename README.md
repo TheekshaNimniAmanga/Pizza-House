@@ -1,2 +1,2 @@
 # Pizza-House
-HTML, CSS. JS
+HTML, CSS
