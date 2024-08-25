@@ -1,2 +1,5 @@
 # Pizza-House
-HTML, CSS
+
+Online Pizza Ordiring System
+
+Languages - HTML | CSS
